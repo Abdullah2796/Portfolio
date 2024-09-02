@@ -1,7 +1,7 @@
 # My Data Analysis Portfolio
 
 ## Project 1: Sales Performance Dashboard
-[View Project]([https://github.com/yourusername/sales-performance-dashboard](https://github.com/Abdullah2796/Sales_Performance_Dashboard.pbix))
+[View Project][https://github.com/yourusername/sales-performance-dashboard](https://github.com/Abdullah2796/Sales_Performance_Dashboard.pbix)
 
 A Power BI dashboard that visualizes sales data across various regions and categories.
 
