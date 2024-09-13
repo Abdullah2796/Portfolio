@@ -7,7 +7,7 @@ A Power BI dashboard that visualizes sales data across various regions and categ
 
 
 ## Project 3: IT Support Ticketing System Dashboard
-[View Project] (https://github.com/Abdullah2796/IT-Support-Ticketing-System-Dashboard)
+[View Project](https://github.com/Abdullah2796/IT-Support-Ticketing-System-Dashboard)
 
 A Power BI dashboard that tracks and analyzes IT support ticket performance across teams, priorities, and time trends.
 
