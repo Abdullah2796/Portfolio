@@ -13,7 +13,7 @@ A Power BI dashboard that tracks and analyzes IT support ticket performance acro
 
 
 ## Project 3: Educational Institution Performance Dashboard  
-[View Project]([https://github.com/YourUsername/Educational-Institution-Performance-Dashboard](https://github.com/Abdullah2796/Educational-Institution-Performance-Dashboard))
+[View Project](https://github.com/Abdullah2796/Educational-Institution-Performance-Dashboard)
 
 A Power BI dashboard designed to monitor and analyze student activities, application statuses, and departmental performance, providing actionable insights for educational administrators.
 
