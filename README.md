@@ -12,7 +12,13 @@ A Power BI dashboard that visualizes sales data across various regions and categ
 A Power BI dashboard that tracks and analyzes IT support ticket performance across teams, priorities, and time trends.
 
 
-## Project 3: Customer Segmentation Analysis
+## Project 3: Educational Institution Performance Dashboard  
+[View Project]([https://github.com/YourUsername/Educational-Institution-Performance-Dashboard](https://github.com/Abdullah2796/Educational-Institution-Performance-Dashboard))
+
+A Power BI dashboard designed to monitor and analyze student activities, application statuses, and departmental performance, providing actionable insights for educational administrators.
+
+
+## Project 4: Customer Segmentation Analysis
 [View Project](https://github.com/Abdullah2796/customer-segmentation-analysis)
 
 Segmenting customers based on RFM analysis using Python, SQL, and Power BI to enhance marketing strategies.
