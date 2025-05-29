@@ -19,6 +19,6 @@ A Power BI dashboard designed to monitor and analyze student activities, applica
 
 
 ## Project 4: Customer Segmentation Analysis
-[View Project](https://github.com/Abdullah2796/customer-segmentation-analysis](https://github.com/Abdullah2796/Revenue_Pulse)
+[View Project](https://github.com/Abdullah2796/Revenue_Pulse)
 
 An interactive Power BI dashboard analyzing revenue performance across B2B and B2C channels, featuring trend analysis, top entities, forecasting, and dynamic filters.
