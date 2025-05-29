@@ -18,7 +18,7 @@ A Power BI dashboard that tracks and analyzes IT support ticket performance acro
 A Power BI dashboard designed to monitor and analyze student activities, application statuses, and departmental performance, providing actionable insights for educational administrators.
 
 
-## Project 4: Customer Segmentation Analysis
+## Project 4: RevenuePulse – B2B/B2C Revenue Dashboard  
 [View Project](https://github.com/Abdullah2796/Revenue_Pulse)
 
 An interactive Power BI dashboard analyzing revenue performance across B2B and B2C channels, featuring trend analysis, top entities, forecasting, and dynamic filters.
